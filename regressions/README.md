@@ -1,1 +1,1 @@
-This directory contains the key code for running the peak by RNA-PC regressions within each cell type.
+This directory contains the key code for running the peak by RNA-PC regressions within each cell type (used for figure 2 plots and as input to the heritability enrichment framework, results of which are plotted in figures 3-6).
