@@ -8,7 +8,7 @@ Contact: Anika Gupta anikagupta@g.harvard.edu
 
 To follow along with the analyses described in the manuscript, we would recommend using the scripts in the following directory order:
 
-1. RNA processing (preparing the counts data for the regressions)
+1. RNA processing (preparing the counts data for the regressions; also includes a pointer to the QC and ATAC processing code)
 2. regressions (underlying basis for this work and the key novelty)
 3. dynamic_peaks_characterization (plots for Figure 2)
 4. stat_gen (preparing the regression outputs for heritability analyses)
