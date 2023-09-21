@@ -44,9 +44,6 @@ sc.pp.log1p(RNA, base=2)
 sc.pp.highly_variable_genes(RNA, batch_key='donor', subset=True, n_top_genes=5000)
 sc.pl.highly_variable_genes(RNA)
 
-# scale genes, unit variance
-sc.pp.scale(RNA, zero_center=True)
-
 ### harmonize across donors ###
 
 import harmonypy as hm
