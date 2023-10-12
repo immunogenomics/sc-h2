@@ -4,6 +4,8 @@ Code related to the manuscript "Dynamic regulatory elements in single-cell multi
 
 Preprint now available at https://www.medrxiv.org/content/10.1101/2023.02.24.23286364v1
 
+All scripts required to reproduce the analysis in this paper can also be found at: https://doi.org/10.5281/zenodo.8436010
+
 Contact: Anika Gupta anikagupta@g.harvard.edu
 
 To follow along with the analyses described in the manuscript, we would recommend using the scripts in the following directory order:
